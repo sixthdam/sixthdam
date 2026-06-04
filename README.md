@@ -23,17 +23,18 @@
 
 ---
 
-<!--
-**sixthdam/sixthdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📡 Communication Interface
 
-Here are some ideas to get you started:
+📧 [E-mail](mailto:dkarinamendezd@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 [LinkedIn](https://www.linkedin.com/in/karinamendez17/)
+
+```text
+> awaiting transmission...
+```
+
+---
+
+
+
+
