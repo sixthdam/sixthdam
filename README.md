@@ -1,4 +1,8 @@
-## Howdy!
+<div align="Justify">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=2000&center=true&vCenter=true&repeat=true&width=500&lines=Greetings+and+Salutations)
+
+</div>
 
 <!--
 **sixthdam/sixthdam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
