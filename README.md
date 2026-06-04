@@ -35,6 +35,27 @@
 
 ---
 
+## 📊 System Analytics
+
+```text
+> gathering statistics...
+
+[OK] Repository data loaded
+[OK] Language distribution loaded
+[OK] Activity records loaded
+
+> displaying results
+```
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sixthdam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sixthdam&layout=compact&theme=tokyonight)
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sixthdam&theme=tokyonight"/>
+</div>
+
 
 
 
